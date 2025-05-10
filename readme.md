@@ -1,7 +1,13 @@
-# Entregable 2 - Simulador de Carrito de Compras
+# Proyecto Final: Simulador de Carrito de Compras.
 
-Este proyecto es parte de la Entrega N°2. Consiste en un simulador de carrito de compras simple que permite:
+Este proyecto es el **Simulador de Carrito de Compras** para una tienda de ropa con estilo urbano, desarrollado como parte del **Proyecto Final** de JavaScript.
 
-- Agregar productos al carrito.
-- Ver el total de la compra.
-- Eliminar el contenido del carrito.
+## Funcionalidades
+
+El simulador permite a los usuarios:
+
+* Ver un catálogo de productos (remeras oversize, pantalones baggy) cargados desde un archivo `JSON`.
+* Agregar productos al carrito, gestionando automáticamente las cantidades.
+* Visualizar los ítems en el carrito y el total de la compra.
+* Vaciar el carrito en cualquier momento.
+* Simular el proceso de finalización de la compra.

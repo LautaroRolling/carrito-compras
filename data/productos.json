@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera Oversize 'Urban Flow'",
+        "precio": 32.50,
+        "stock": 60,
+        "talla": ["S", "M", "L", "XL", "XXL"],
+        "color": ["Negro", "Blanco Crema", "Gris Melange", "Verde Oliva"]
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalón Baggy Cargo 'Street Comfort'",
+        "precio": 68.00,
+        "stock": 35,
+        "talla": ["28", "30", "32", "34", "36", "38"],
+        "color": ["Beige", "Negro", "Verde Militar"]
+    },
+    {
+        "id": 3,
+        "nombre": "Remera Boxy 'Minimal Streets'",
+        "precio": 29.00,
+        "stock": 55,
+        "talla": ["S", "M", "L", "XL"],
+        "color": ["Gris Claro", "Azul ", "Blanco Desgastado"]
+    },
+    {
+        "id": 4,
+        "nombre": "Pantalón Baggy 'Chill Out'",
+        "precio": 55.00,
+        "stock": 40,
+        "talla": ["S", "M", "L", "XL"],
+        "color": ["Gris Oscuro", "Negro", "Azul Marino"]
+    },
+    {
+        "id": 5,
+        "nombre": "Remera Boxy 'Urban Art'",
+        "precio": 35.00,
+        "stock": 45,
+        "talla": ["M", "L", "XL", "XXL"],
+        "color": ["Negro (Estampado Blanco)", "Blanco (Estampado Negro)"]
+    },
+    {
+        "id": 6,
+        "nombre": "Pantalón Cargo Baggy 'Utility'",
+        "precio": 72.00,
+        "stock": 30,
+        "talla": ["30/40", "32/42", "34/44", "36/46"],
+        "color": ["Azul", "Negro"]
+    },
+    {
+        "id": 7,
+        "nombre": "Remera Boxy 'Street Basic'",
+        "precio": 27.00,
+        "stock": 70,
+        "talla": ["XS", "S", "M", "L", "XL"],
+        "color": ["Blanco", "Negro", "Azul Cielo", "Rosa Pálido"]
+    }
+]
